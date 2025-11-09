@@ -1,4 +1,3 @@
-#       PAY_0: Historia de pagos pasados. Estado del pago en septiembre, 2005.
 
 
 import os
